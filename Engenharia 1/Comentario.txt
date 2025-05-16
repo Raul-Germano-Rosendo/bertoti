@@ -1,0 +1,12 @@
+##Texto
+>What precisely do we mean by software engineering? What distinguishes “software engineering” from “programming” or “computer science”? And why would Google have a unique >perspective to add to the corpus of previous software engineering literature written over the past 50 years?
+
+>The terms “programming” and “software engineering” have been used
+interchangeably for quite some time in our industry, although 
+each term has a different emphasis and different implications. 
+University students tend to study computer science and get jobs 
+writing code as “programmers.”
+
+
+Quando tratamos de falar sobre programação, penso sobre o ato de tranformar uma sequencia de pensamentos lógicos em uma linguagem que uma maquina pode entender. Por outro lado a Engenharia de software trata-se não somente da programação, mas de estruturar e desenvolver um projeto, sua arquitetura, como havera sua manutenção, se o projeto é escalavel ou não, como a equipe pode testar, qual será o DoD do projeto.
+Ciência da computação por outro lado eu vejo como algo mais teórico, algo relacionado a fundamentos matematicos, estrutura de dados, teoria e história da computação com seus preceitos
